@@ -1,0 +1,19 @@
+{
+  "name": "gulp-base",
+  "version": "1.0.0",
+  "description": "gulp配置预设",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h8y6/first-test.git"
+  },
+  "author": "h8y6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h8y6/first-test/issues"
+  },
+  "homepage": "https://github.com/h8y6/first-test#readme"
+}
