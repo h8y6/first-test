@@ -15,5 +15,20 @@
   "bugs": {
     "url": "https://github.com/h8y6/first-test/issues"
   },
-  "homepage": "https://github.com/h8y6/first-test#readme"
+  "homepage": "https://github.com/h8y6/first-test#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^6.1.1",
+    "gulp-rev": "^9.0.0",
+    "gulp-rev-collector": "^1.3.1",
+    "gulp-watch": "^5.0.1"
+  }
 }
